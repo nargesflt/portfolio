@@ -226,7 +226,7 @@
       font-size: 11px;
     }
     h1 {
-      font-size: 44px;
+      font-size: 30px;
       line-height: 2;
     }
     h2 {
@@ -245,6 +245,9 @@
       padding: 10px 0px;
       font-size: 15px;
       -webkit-text-stroke: 0.3px var(--orange-color);
+    }
+    .header-text{
+      margin:0;
     }
     .img-about{
       margin-top: 0px;
