@@ -222,8 +222,6 @@
     color: var(--branding-color);
   }
   @media (max-width: 768px) {
-
-
     nav {
       background:var(--white-color);
       align-items:flex-start;
@@ -239,16 +237,6 @@
       list-style: none;
       line-height: 44px;
       margin-left: 0;}
-
-
-
-
-
-
-
-
-
-
 
     h1 {
       font-size: 30px;
