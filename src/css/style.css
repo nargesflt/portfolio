@@ -228,16 +228,16 @@
       background:var(--white-color);
       align-items:flex-start;
       position: fixed;
-      padding: 10px 15px;
+      padding: 10px 20px;
       box-shadow: var(--headroom-box-shadow);
       z-index: 1030;
     }
     nav a {
-      font-size: 14px;
+      font-size: 15px;
     }
     nav li {
       list-style: none;
-      line-height: 35px;
+      line-height: 50px;
       margin-left: 0;}
 
 
