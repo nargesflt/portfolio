@@ -23,7 +23,6 @@
     -webkit-text-stroke: 1px var(--orange-color);
   }
   nav {
-
     background:var(--white-color);
     align-items: center;
     position: fixed;
@@ -250,5 +249,4 @@
     .img-about{
       margin-top: 0px;
     }
-  
   }
